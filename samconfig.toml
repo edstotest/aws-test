@@ -4,7 +4,7 @@ version = 0.1
 
 [default]
 [default.global.parameters]
-stack_name = "ci-cd-UploadsNotificationFunction"
+stack_name = "CI-CD-UploadsNotificationFunction"
 
 [default.build.parameters]
 cached = true
