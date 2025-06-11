@@ -3,7 +3,7 @@ import {
   PublishCommand
 } from "@aws-sdk/client-sns";
 
-const TOPIC_ARN_NAME = "arn:aws:sns:us-east-1:779846803720:ci-cd-UploadsNotificationTopic";
+const TOPIC_ARN_NAME = "arn:aws:sns:us-east-1:779846803720:CI-CD-UploadsNotificationTopic";
 const REGION = "us-east-1";
 
 const sns = new SNSClient({
